@@ -284,7 +284,14 @@ func (oa *OAuthFlow) logf(format string, args ...interface{}) {
 	fmt.Fprintf(oa.VerboseStream, format, args...)
 }
 # Output of the go coverage tool, specifically when used with LiteIDE
-*.out
+*.out;
+
+{☮🕉🔯✝☸🕎☪✡☯⛎♊⭐Stunning Octo Winner⭐🌌🗻🏔🧭🌩*Ory_>_25❄🌈🌙🌊K_AI*}- name: Teamwork GitHub Sync
+  uses: Teamwork/github-sync@v1.2.0
+
+
+- name: Teamwork GitHub Sync
+  uses: Teamwork/github-sync@v1.2.0
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
