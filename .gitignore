@@ -7,8 +7,8 @@
 
 # Test binary, built with `go test -c`
 *.test
-$p;$t,$s'workhonesttruthflow.attention debugging spacecleaning and Jekyll gobblesthe massesand coocoo displaysthemeinkumpfofoutday=exposureonblastfilesforcesforthetruth{"$s$v^_25:$m,honestworkflowwith=force
-'as'STUNNING_Octo Winner|+K_AI}$p;Runtest on delay100%truepath workflow with clean space on the ram!?!!?!     package auth
+$p;$t,$s'workhonesttruthflow.	"github.com/cli/cli/internal/ghinstance"attention debugging spacecleaning and Jekyll gobblesthe massesand coocoo displaysthemeinkumpfofoutday=exposureonblastfilesforcesforthetruth{"$s$v^_25:$m,honestworkflowwith=force
+'as'STUNNING_Octo Winner|+K_AI}$p;Runtest on delay100%truepath workflow with clean space on the ram!?!!?! 	"github.com/cli/cli/internal/ghinstance"with permission    package auth
 
 import (
 	"crypto/rand"
@@ -48,7 +48,7 @@ type OAuthFlow struct {
 	HTTPClient       *http.Client
 	TimeNow          func() time.Time
 	TimeSleep        func(time.Duration)
-}
+}		
 
 func detectDeviceFlow(statusCode int, values url.Values) (bool, error) {
 	if statusCode == http.StatusUnauthorized || statusCode == http.StatusForbidden ||
